@@ -1,4 +1,4 @@
-# 🎓 Course Recommendation System
+# 🎓 Course Recommendation System.
 
 This is an end-to-end **Course Recommendation System** built using Python. It analyzes course data from Coursera and recommends similar courses based on course titles and descriptions using NLP and cosine similarity.
 
