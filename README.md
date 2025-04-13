@@ -24,6 +24,7 @@ The goal of this project is to help users discover new courses that are similar 
 - Cosine Similarity
 
 ---
+## How to Run the Project
 
 ### 1. Clone the Repository
 
