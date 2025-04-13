@@ -39,3 +39,13 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+## 🤝 Contribution  
+We welcome contributions! Follow these steps to contribute:  
+
+1️⃣ **Fork the Repository** – Click the fork button on GitHub.  
+2️⃣ **Clone the Repository** –  
+   ```bash
+   git clone https://github.com/your-username/Course-Recommender-System.git
+   cd course-Recommender-System
+  ```
+Feel free to contribute and enhance this project!
